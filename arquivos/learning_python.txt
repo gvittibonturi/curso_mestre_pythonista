@@ -1,0 +1,3 @@
+Em Python podemos abrir arquivos e percorrer o seu conteúdo em python.
+Em Python podemos imprimir seu conteúdo.
+Em Python consigo, também, compara strings.
